@@ -1,0 +1,7 @@
+table tr td{
+    border: solid 5px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+}
